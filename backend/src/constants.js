@@ -1,1 +1,1 @@
-export const DB_NAME = Time2Qualify
+export const DB_NAME = "Time2Qualify"
