@@ -61,5 +61,15 @@ adminSchema.methods.generateAccessToken = function(){
     })
 }
 
+adminSchema.methods.generateRefreshToken = function(){
+    return jwt.sign({
+        id: this._id,
+        username: this.username,
+        email: this.email,
+    }, process.env.REFRESH_TOKEN_SECRET, {
+        expiresIn: REFRESH_TOKEN_EXPIRY,
+    })
+}
+
 const Admin = mongoose.model('Admin', adminSchema);
 export default Admin;
