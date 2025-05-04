@@ -1,9 +1,11 @@
 import { Router } from 'express';
 import { uploadEmbeddings, searchTests } from '../controllers/Pinecone.controllers.js';
+import { verifyJWT } from '../middlewares/auth.middlewares.js';
 
 const router = Router();
 
-router.post('/upload', uploadEmbeddings);
-router.post('/search', searchTests);
+//Sercured routes
+router.post('/upload',verifyJWT, uploadEmbeddings);
+router.post('/search',verifyJWT ,searchTests);
 
 export default router;
