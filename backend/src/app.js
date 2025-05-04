@@ -13,7 +13,7 @@ app.use(express.static(path.join(process.cwd(), 'public')));
 
 
 //import routes
-
+import PineconeRoutes from "./routes/Pinecone.routes.js"
 
 app.get("/", (req, res) => {
     res.send("Server is running...");
@@ -21,6 +21,6 @@ app.get("/", (req, res) => {
 
 
 //routes
-
+app.use("/api/v1/embeddings", PineconeRoutes)
 
 export {app}
