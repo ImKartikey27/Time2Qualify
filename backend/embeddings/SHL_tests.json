@@ -1,0 +1,243 @@
+[
+    {
+      "id": "shl-001",
+      "name": "Amazon Web Services (AWS) Development",
+      "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+      "description": "Multi-choice test that measures the knowledge of AWS delivery process, monitoring, metrics, logging, security, validation and scalability.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "6 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-002",
+      "name": "Aerospace Engineering",
+      "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+      "description": "Multi-choice test that measures the conceptual knowledge of aerodynamics, aircraft systems and instrumentation, flight dynamics, space dynamics and avionics.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "10 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-003",
+      "name": "Agile Software Development",
+      "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+      "description": "Multi-choice test that measures the knowledge of agile methodology, scrum, feature driven software development, incremental and iterative development and processes involved in agile software development.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "7 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-004",
+      "name": "Android Development",
+      "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+      "description": "Multi-choice test that measures the knowledge of UI components for an Android device, services and alerts, animation and media apps, application components, security and testing.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "7 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-005",
+      "name": "AngularJS",
+      "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+      "description": "Multi-choice test that measures the knowledge of AngularJS architecture, forms, directives, filters, controllers, routing and testing.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "9 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-006",
+      "name": "Apache Kafka",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+      "description": "Multi-choice test that measures the knowledge of Apache Kafka architecture, components, clusters, performance tuning and advanced operations.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "6 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-007",
+      "name": "ASP.NET 4.5",
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+      "description": "The ASP.NET 4.5 test measures knowledge of programming in the ASP.NET environment. Designed for experienced developers, but an average performer in this role should pass this test. This test includes the following topics: .NET Framework, Client-Side Programming, Data Access, Enhanced Runtime Features, Portals, Services and Mobile, Security, Troubleshooting and Optimization, Web Applications, and Web Forms.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "30 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-008",
+      "name": "Automata-SQL",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+      "description": "A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "30 mins",
+      "testType": "Simulation"
+    },
+    {
+      "id": "shl-009",
+      "name": "Blockchain Development",
+      "url": "https://www.shl.com/products/product-catalog/view/blockchain-development/",
+      "description": "Multi-choice test that measures the knowledge of blockchain fundamentals, smart contracts, consensus algorithms, Ethereum, and decentralized application development.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "8 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-010",
+      "name": "Data Engineering",
+      "url": "https://www.shl.com/products/product-catalog/view/data-engineering/",
+      "description": "Multi-choice test that measures the understanding of ETL pipelines, data warehousing, big data frameworks, and database technologies.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "9 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-011",
+      "name": "Machine Learning Fundamentals",
+      "url": "https://www.shl.com/products/product-catalog/view/machine-learning-fundamentals/",
+      "description": "Multi-choice test that evaluates knowledge in supervised and unsupervised learning, model evaluation, feature engineering, and ML workflows.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "12 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-012",
+      "name": "Docker & Containerization",
+      "url": "https://www.shl.com/products/product-catalog/view/docker-containerization/",
+      "description": "Multi-choice test that assesses the knowledge of Docker architecture, containers, Dockerfiles, orchestration with Docker Compose, and registry usage.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "6 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-013",
+      "name": "Kubernetes",
+      "url": "https://www.shl.com/products/product-catalog/view/kubernetes/",
+      "description": "Multi-choice test that measures knowledge of Kubernetes architecture, deployments, services, pod management, volumes, and networking.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "7 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-014",
+      "name": "DevOps Practices",
+      "url": "https://www.shl.com/products/product-catalog/view/devops-practices/",
+      "description": "Multi-choice test that evaluates understanding of CI/CD pipelines, infrastructure as code, monitoring, and automation tools.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "10 mins",
+      "testType": "Knowledge And Skills"
+    },
+    {
+      "id": "shl-015",
+      "name": "Cybersecurity Essentials",
+      "url": "https://www.shl.com/products/product-catalog/view/cybersecurity-essentials/",
+      "description": "Multi-choice test that measures the knowledge of common cyber threats, secure coding, network security protocols, and data protection techniques.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "11 mins",
+      "testType": "Knowledge And Skills"
+    },
+      {
+        "id": "shl-022",
+        "name": "Numerical Reasoning",
+        "url": "https://www.shl.com/products/product-catalog/view/numerical-reasoning/",
+        "description": "Timed test that measures the ability to interpret, analyze and draw conclusions from numerical data.",
+        "remoteTesting": "Yes",
+        "adaptiveIRT": "Yes",
+        "duration": "20 mins",
+        "testType": "Ability & Aptitude"
+      },
+      {
+        "id": "shl-023",
+        "name": "Situational Judgement for Managers",
+        "url": "https://www.shl.com/products/product-catalog/view/situational-judgement-managers/",
+        "description": "Test that assesses judgment in real-world workplace scenarios involving team management, decision making and conflict resolution.",
+        "remoteTesting": "Yes",
+        "adaptiveIRT": "No",
+        "duration": "15 mins",
+        "testType": "Biodata & Situational Judgement"
+      },
+      {
+        "id": "shl-024",
+        "name": "Leadership Competency",
+        "url": "https://www.shl.com/products/product-catalog/view/leadership-competency/",
+        "description": "Evaluates competencies in strategic thinking, influence, and decision-making capabilities essential for leadership roles.",
+        "remoteTesting": "Yes",
+        "adaptiveIRT": "No",
+        "duration": "25 mins",
+        "testType": "Competencies"
+      },
+      {
+        "id": "shl-025",
+        "name": "360 Degree Feedback",
+        "url": "https://www.shl.com/products/product-catalog/view/360-degree-feedback/",
+        "description": "A feedback-based assessment designed to evaluate an individual's behavior and skills as perceived by others in the workplace.",
+        "remoteTesting": "Yes",
+        "adaptiveIRT": "No",
+        "duration": "30 mins",
+        "testType": "Development & 360"
+      },
+      {
+        "id": "shl-026",
+        "name": "In-Basket Exercise",
+        "url": "https://www.shl.com/products/product-catalog/view/in-basket-exercise/",
+        "description": "Simulates a managerial in-basket with tasks and memos to assess planning, prioritization, and decision-making skills.",
+        "remoteTesting": "No",
+        "adaptiveIRT": "No",
+        "duration": "35 mins",
+        "testType": "Assessment Exercises"
+      },
+      {
+        "id": "shl-027",
+        "name": "Cognitive Ability Simulation",
+        "url": "https://www.shl.com/products/product-catalog/view/cognitive-ability-simulation/",
+        "description": "A simulation test that evaluates problem-solving, pattern recognition, and logical reasoning under timed conditions.",
+        "remoteTesting": "Yes",
+        "adaptiveIRT": "Yes",
+        "duration": "18 mins",
+        "testType": "Simulations"
+      },
+      {
+        "id": "shl-028",
+        "name": "Behavioral Personality Inventory",
+        "url": "https://www.shl.com/products/product-catalog/view/behavioral-personality-inventory/",
+        "description": "Personality test that explores preferences, motivations, and behavioral tendencies in the workplace.",
+        "remoteTesting": "Yes",
+        "adaptiveIRT": "No",
+        "duration": "20 mins",
+        "testType": "Personality & Behavior"
+      },
+      {
+        "id": "shl-029",
+        "name": "Verbal Reasoning",
+        "url": "https://www.shl.com/products/product-catalog/view/verbal-reasoning/",
+        "description": "Evaluates the ability to read and interpret written information and draw logical conclusions.",
+        "remoteTesting": "Yes",
+        "adaptiveIRT": "Yes",
+        "duration": "19 mins",
+        "testType": "Ability & Aptitude"
+      },
+    {
+      "id": "shl-030",
+      "name": "Emotional Intelligence",
+      "url": "https://www.shl.com/products/product-catalog/view/emotional-intelligence/",
+      "description": "Measures the ability to recognize, understand, and manage emotions in oneself and others.",
+      "remoteTesting": "Yes",
+      "adaptiveIRT": "No",
+      "duration": "22 mins",
+      "testType": "Personality & Behavior"
+    }    
+  ]
+  
